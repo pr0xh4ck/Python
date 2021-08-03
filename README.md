@@ -1,10 +1,47 @@
 # Python
-All about python(hacker perspective) &amp; take it easy
+> All about python for Hacker & Developer 
 
 
 ## Agenda 
- - [Veriables and Data Types](#veriable-and-data-types)
- - 
+ - [Hacker](#hacker)
+ - [Developer](#developer)
+ 
+ 
+ 
+ ### hacker
+  - [Basic](#basic)
+  - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### developer
+ 
 
 
 
