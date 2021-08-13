@@ -8,6 +8,7 @@
 
  - [Basic](#basic)
    - [Variables & Data types](#variables-data-types)
+   - [Data types example](#example)
  - [Hacker](#hacker)
  - [Developer](#developer)
  
@@ -47,18 +48,36 @@
 - Python3 stores strings as unicode by default(not ASCII)
 - If you don't know to run a script, try both or try to print
 - If you have a choice - use Python3(Python2 is end of life)
-
 ```
  
  
  ### variables-data-types
- 
- 
- 
- 
- 
- 
- 
+```
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+```
+### example
+```
+x = "Hello World"	str	
+x = 20	int	
+x = 20.5	float	
+x = 1j	complex	
+x = ["apple", "banana", "cherry"]	list	
+x = ("apple", "banana", "cherry")	tuple	
+x = range(6)	range	
+x = {"name" : "John", "age" : 36}	dict	
+x = {"apple", "banana", "cherry"}	set	
+x = frozenset({"apple", "banana", "cherry"})	frozenset	
+x = True	bool	
+x = b"Hello"	bytes	
+x = bytearray(5)	bytearray	
+x = memoryview(bytes(5))	memoryview
+``` 
  
  
  
