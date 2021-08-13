@@ -7,7 +7,7 @@
 ## Agenda 
 
  - [Basic](#basic)
-   - [Variables & Data types](#variables-&-data-types)
+   - [Variables & Data types](#variables-data-types)
  - [Hacker](#hacker)
  - [Developer](#developer)
  
@@ -51,7 +51,7 @@
 ```
  
  
- ### variables-&-data-types
+ ### variables-data-types
  
  
  
