@@ -7,7 +7,8 @@
 ## Agenda 
 
  - [Basic](#basic)
-   - [Variables & Data types](#variables-data-types)
+   - [Variables](#variables)
+   - [Data types](#data-types)
    - [Data types example](#example)
  - [Hacker](#hacker)
  - [Developer](#developer)
@@ -51,7 +52,21 @@
 ```
  
  
- ### variables-data-types
+ 
+ 
+ ### variables
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### data-types
 ```
 Text Type:	str
 Numeric Types:	int, float, complex
