@@ -55,7 +55,103 @@
  
  
  ### variables
- 
+ ```
+Python has no command for declaring a variable.
+> A variable is created the moment you first assign a value to it.
+
+ex:
+x = 1
+y = 12
+
+> If you want to specify the data type of a variable.
+ex:
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+
+> You can get the data type of a variable with the type() function.
+ex:
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
+
+> String variables can be declared either by using single or double quotes:
+ex:
+x = "John"
+# is the same as
+x = 'John'
+
+> Variable names are case-sensitive.
+ex:
+a = 4
+A = "Sally"
+#A will not overwrite a
+
+> Legal variable names:
+ex:
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+> Illegal variable names:
+ex:
+2myvar = "John"
+my-var = "John"
+my var = "John"
+
+> Python allows you to assign values to multiple variables in one line:
+ex:
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
+
+> And you can assign the same value to multiple variables in one line:
+ex:
+x = y = z = "Orange"
+print(x)
+print(y)
+print(z)
+
+> If you have a collection of values in a list, tuple etc. Python allows you extract the values into variables. This is called unpacking.
+ex:
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
+
+> The Python print statement is often used to output variables.To combine both text and a variable, Python uses the + character:
+ex:
+x = "awesome"
+print("Python is " + x)
+
+> You can also use the + character to add a variable to another variable:
+ex:
+x = "Python is "
+y = "awesome"
+z =  x + y
+print(z)
+
+> For numbers, the + character works as a mathematical operator:
+ex:
+x = 5
+y = 10
+print(x + y)
+
+> If you try to combine a string and a number, Python will give you an error:
+ex:
+x = 5
+y = "John"
+print(x + y)
+
+> 
+
+```
  
  
  
