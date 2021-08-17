@@ -22,6 +22,7 @@ If you think python is not easy and it's very difficult to learn, that's why I m
  - Q 1: What is Python ?
 
 ```
+- It was created by Guido van Rossum, and released in 1991.
 - Dynamic, Interpreted, Object-Oriented and high-level programing language. 
 - Enables cross-platform rapid prototyping and scripting.
 - Relatively simple, easy to learn syntax.
