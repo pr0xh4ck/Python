@@ -1,4 +1,4 @@
-> All about python
+> Caution
 ```
 If you think python is not easy and it's very difficult to learn, that's why I make this content for you guys.
 ```
