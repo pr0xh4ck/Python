@@ -7,6 +7,7 @@ If you think python is not easy and it's very difficult to learn, that's why I m
 ## Agenda 
 
  - [Basic](#basic)
+   - [Intro](#intro) 
    - [Variables](#variables)
    - [Data types](#data-types)
    - [Data types example](#example)
@@ -19,6 +20,7 @@ If you think python is not easy and it's very difficult to learn, that's why I m
  
  ### basic 
  
+ ### intro
  - Q 1: What is Python ?
 
 ```
