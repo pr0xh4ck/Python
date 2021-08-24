@@ -8,6 +8,7 @@ If you think python is not easy and it's very difficult to learn, that's why I m
 
  - [Basic](#basic)
    - [Intro](#intro) 
+   - [Comment](#comment)
    - [Variables](#variables)
    - [Data types](#data-types)
    - [Data types example](#example)
@@ -53,6 +54,21 @@ If you think python is not easy and it's very difficult to learn, that's why I m
 - If you don't know to run a script, try both or try to print
 - If you have a choice - use Python3(Python2 is end of life)
 ```
+ 
+ 
+ 
+ 
+ 
+ ### comment
+ ```
+> Comments starts with a #, and Python will ignore them:
+ex:
+#This is a comment
+#written in
+#more than just one line
+print("Hello, World!")
+ ```
+ 
  
  
  
