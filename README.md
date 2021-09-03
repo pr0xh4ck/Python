@@ -16,12 +16,11 @@ If you think python is not easy and it's very difficult to learn, that's why I m
    - [Data types](#data-types)
    - [Data types example](#example)
 
+ - [Extend](#extend)
+   - [Packages](#packages)
+   - [Virtual environment](#virtual-environment)
+   - [SYS](#sys)
 
- - [Packages](#packages)
-
- - [Virtual environment](#virtual-environment)
-
- - [SYS](#sys)
 
  - [Hacker](#hacker)
 
