@@ -303,12 +303,12 @@ mkdir virtualenv
 cd virtualenv
 ```
 
-- now put this command
+- folder declaration
 ```
 python3 -m venv env
 ```
 
-- now activate your env
+- path declaration
 ```
 source env/bin/activate
 ```
@@ -317,8 +317,15 @@ source env/bin/activate
 ```
 which python3
 ```
+or
+```
+which pip3
+```
  
- 
+- deactive your venv
+```
+deactivate
+```
  
  
  
