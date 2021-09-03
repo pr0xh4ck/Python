@@ -20,6 +20,7 @@ If you think python is not easy and it's very difficult to learn, that's why I m
    - [Packages](#packages)
    - [Virtual environment](#virtual-environment)
    - [SYS](#sys)
+   - [Requests](#requests)
 
 
  - [Hacker](#hacker)
@@ -283,7 +284,25 @@ x = memoryview(bytes(5))	memoryview
  
  
  
+ ### requests
  
+ 
+ 
+ - [requests](https://pypi.org/project/requests/)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ---------
  
  
  
