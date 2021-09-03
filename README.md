@@ -21,6 +21,8 @@ If you think python is not easy and it's very difficult to learn, that's why I m
 
  - [Virtual environment](#virtual-environment)
 
+ - [SYS](#sys)
+
  - [Hacker](#hacker)
 
 
@@ -332,12 +334,30 @@ deactivate
  
  
  
- 
- 
- 
- 
+
  
  -----
+ 
+ 
+ 
+ 
+ ### sys
+ 
+  
+ 
+ 
+ - [All sys commands](https://docs.python.org/3/library/sys.html)
+ 
+ 
+
+ 
+ 
+ ----
+ 
+ 
+ 
+ 
+ 
  
  
  
