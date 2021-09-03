@@ -15,7 +15,16 @@ If you think python is not easy and it's very difficult to learn, that's why I m
    - [Variables](#variables)
    - [Data types](#data-types)
    - [Data types example](#example)
+
+
+ - [Packages](#packages)
+
+ - [Virtual environment](#virtual-environment)
+
  - [Hacker](#hacker)
+
+
+
  - [Developer](#developer)
  
  ---
@@ -259,12 +268,69 @@ x = memoryview(bytes(5))	memoryview
  
  
  
+----------------
+ 
+ 
+ 
+ ### packages
+ 
+ - [packages](https://pypi.org/)
+ 
+ 
+ 
+---------
  
  
  
  
  
  
+ 
+### virtual-environment
+ 
+- How to create virtual environment
+```
+pip3 install virtualenv
+```
+
+- now you need to create separate folder for your virtual env
+```
+mkdir virtualenv
+```
+
+- then go to your folder
+```
+cd virtualenv
+```
+
+- now put this command
+```
+python3 -m venv env
+```
+
+- now activate your env
+```
+source env/bin/activate
+```
+
+- now check
+```
+which python3
+```
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -----
  
  
  
