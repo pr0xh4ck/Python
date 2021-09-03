@@ -288,32 +288,32 @@ x = memoryview(bytes(5))	memoryview
  
 ### virtual-environment
  
-- How to create virtual environment
+- How to create virtual environment.
 ```
 pip3 install virtualenv
 ```
 
-- now you need to create separate folder for your virtual env
+- Now you need to create separate folder for your virtual env.
 ```
 mkdir virtualenv
 ```
 
-- then go to your folder
+- Then go to your folder.
 ```
 cd virtualenv
 ```
 
-- folder declaration
+- Folder declaration.
 ```
 python3 -m venv env
 ```
 
-- path declaration
+- Path declaration.
 ```
 source env/bin/activate
 ```
 
-- now check
+- Now check.
 ```
 which python3
 ```
@@ -322,7 +322,7 @@ or
 which pip3
 ```
  
-- deactive your venv
+- Deactive your venv.
 ```
 deactivate
 ```
